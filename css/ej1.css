@@ -1,0 +1,18 @@
+.entradas{
+    background-color: aqua;
+    margin: 5%;
+    margin-right: 60%;
+    padding: 5%;
+}
+
+#matriz{
+    background-color: burlywood;
+    margin: 5%;
+    margin-right: 60%;
+    padding: 5%;
+}
+
+table{
+    border: blue 2px solid;
+
+}       
